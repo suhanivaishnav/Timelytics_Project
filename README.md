@@ -96,4 +96,4 @@ This project is open-source and free to use under the **MIT License**.
 
 For questions or contributions, feel free to reach out!
 
-📌 **GitHub**: [devaldaki3](https://github.com/devaldaki3)
+📌 **GitHub**: [suhanivaishnav](https://github.com/suhanivaishnav)
