@@ -31,7 +31,7 @@ This project helps businesses optimize their **supply chain operations** by iden
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-https://github.com/devaldaki3/ai_project
+https://github.com/suhanivaishnav/Timelytics_Project
 ```
 
 ### 2️⃣ **Install Required Dependencies**
